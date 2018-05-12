@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31616
 description: '3 : 1842-1843 / edited by Madeline House, Graham Storey, Kathleen Tillotson.
   -- 1974. -- XXV, 692 p., [4] c. di tav. -- ISBN 0-19-812474-0'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25854#The-Letters-of-Charles-Dickens--13-Vol.-3-1836-1870
 gutenberg_issued: '2008-06-20'
 gutenberg_type: Text
 identifiers:
